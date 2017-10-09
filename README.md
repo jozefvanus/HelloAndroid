@@ -1,2 +1,2 @@
 # HelloAndroid
-The very easy app Hello World! The first project in Android Studio
+The very easy app Hello World! My first project in Android Studio
